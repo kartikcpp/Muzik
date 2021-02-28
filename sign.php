@@ -16,6 +16,8 @@ KESHAVMUZIK
 <body>
 <center><h1>SIGN UP</h1></center>
 <div class="container">
+
+
 <form method="post" action="ert.php">
 
 <div class="mb-3">
@@ -42,9 +44,6 @@ KESHAVMUZIK
 
 
 </div>
-<form method="get" action="ert.php">
-<input type="text" name="rt">
-<input type="submit">
-</form>
+
 </body>
 </html>
